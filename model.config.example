@@ -1,0 +1,8 @@
+model_config_list {
+ config {
+    name: 'Leaf Classification (CNN)'
+    base_path: 'C:\Users\yash\Numpy Learning\Leaf classification (CNN)'
+    model_platform: 'tensorflow'
+    model_version_policy: {all: {}}
+        }
+}
